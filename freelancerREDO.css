@@ -1,0 +1,23 @@
+li {
+  list-style: none;
+  margin: 1rem;
+}
+
+h1 {
+  justify-self: center;
+}
+
+.container {
+  border: 10px solid black;
+  display: flex;
+  flex-direction: column;
+}
+
+.td {
+  padding: 10px;
+}
+
+.p {
+  font-size: 1rem;
+  color: blue;
+}
